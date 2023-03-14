@@ -1,2 +1,2 @@
 # PROYECTOSQAIM
-Mi primer repositorio de Testing - Ignacio Menceguez
+MIS PROYECTOS DE TESTING MANUAL - MY PROJECTS OF MANUAL TESTING - Ignacio Menceguez
